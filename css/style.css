@@ -22,7 +22,7 @@
   padding-top: 80px;
 }
 body {
-  font-family: "PingFang SC", -apple-system, BlinkMacSystemFont, "Noto Sans CJK SC", "DengXian", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+  font-family: "PingFang SC", -apple-system, BlinkMacSystemFont, "Noto Sans CJK SC", "DengXian", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
@@ -99,7 +99,7 @@ img {
   text-align: center;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PingFang SC", -apple-system, BlinkMacSystemFont, "Noto Sans CJK SC", "DengXian", "Roboto", "Segoe UI",  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+  font-family: "PingFang SC", -apple-system, BlinkMacSystemFont, "Noto Sans CJK SC", "DengXian", "Roboto", "Segoe UI",  "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-weight: 900;
   background-image: none;
   text-decoration: none !important;
@@ -176,7 +176,7 @@ blockquote::after {
   margin-bottom: 30px;
 }
 code {
-  font-family: Consolas, Monaco, "Lucida Console", monospace !default;
+  font-family: Consolas, Monaco, "Lucida Console", monospace;
 }
 p code {
   font-size: .7em;
@@ -298,7 +298,7 @@ textarea {
   box-sizing: border-box;
 }
 input[type="submit"] {
-  font-family: Consolas, Monaco, "Lucida Console", monospace !default;
+  font-family: Consolas, Monaco, "Lucida Console", monospace;
   font-size: inherit;
   font-weight: 600;
   color: rgba({{ site.text-color }},.76);
@@ -311,7 +311,7 @@ input[type="submit"] {
 }
 .pagination {
   margin-top: -30px;
-  font-family: Consolas, Monaco, "Lucida Console", monospace !default;
+  font-family: Consolas, Monaco, "Lucida Console", monospace;
   font-weight: 600;
   padding-bottom: 50px;
 }
