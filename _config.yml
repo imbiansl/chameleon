@@ -135,6 +135,8 @@ var_your_message: Your message
 
 # You don't have to change these.
 
+host: 127.0.0.1
+
 exclude: [vendor]
 highlighter: rouge
 kramdown:
